@@ -3,24 +3,9 @@ Image captioning involves using deep learning models, like CNNs for feature extr
 
 ![image](https://github.com/karenthiran/Image_Caption_Generator/blob/a63168266ae85c167d1020df30d7765003be3634/image.png)
 
-
-
-
 EC9170 - Deep Learning for Electrical & Computer Engineers 
 Mini Project
 Building an Image Caption Generator using CNN-LSTM from Scratch
-
-
-
-
-
-
-
-
-
-
-
-
 
 Data Preprocessing Methodology
 In this project, we utilized the given dataset for image captioning. The preprocessing pipeline involved several crucial steps to prepare both the images and the textual descriptions for model training.
